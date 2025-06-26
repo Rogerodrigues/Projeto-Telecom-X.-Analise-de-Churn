@@ -1,6 +1,6 @@
 # Projeto-Telecom-X.-Analise-de-Churn
 
-# Telecom X - Análise de Evasão de Clientes (Churn Analysis)
+## Análise de Evasão de Clientes (Churn Analysis)
 
 ## Descrição
 
